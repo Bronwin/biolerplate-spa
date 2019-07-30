@@ -1,1 +1,21 @@
-hi
+body {
+	background-color: cadetblue;
+}
+
+header {
+	background-color: #000;
+	height: 	3em;
+	left: 		0;
+	position: fixed;
+	top: 			0;
+}
+
+.fullscreen {
+	min-height: 100%
+}
+
+.main {
+	background-color: #668822;
+	display: 		flex;
+	overflow-x: hidden;
+}
